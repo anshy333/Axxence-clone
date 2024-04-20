@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family:"Roboto Slab", serif;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
  
 
@@ -421,10 +421,33 @@
 }
 /* gg */
 
+.footer{
+    width: 100%;
+    height: auto;
+}
+
+.left-part{
+    width: 40%;
+    height: auto;
+    justify-content: center;
+}
+
+.right-part{
+    width: 60%;
+    height: auto;
+}
 
 
+.box-icon-size{  
+    width: 70%;
+    height: auto; 
+}
 
-
+.box-icon-size img{   
+    width: 90px;
+    height: 90px;
+}
+/* end */
 }
 
 
